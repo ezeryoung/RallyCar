@@ -2,7 +2,7 @@
 
 🎮 **Live Demo / 在线游玩**: [https://ezeryoung.github.io/RallyCar/](https://ezeryoung.github.io/RallyCar/)
 
-经典 J2ME 拉力赛《Rally 3D HD》的 HTML5 复刻版。赛道数据、奖杯时间与解锁规则均从原版 jar 包逆向还原（段结构、转角/坡度字段、12×4 奖杯表）。
+经典 J2ME 拉力赛《Rally 3D HD》的 HTML5 玩法复刻版。
 
 ## 特性
 
@@ -36,4 +36,4 @@
 
 ## 许可
 
-原版游戏版权归其原作者所有。本项目为个人学习用途的 HTML5 移植复刻，不包含原版游戏的可执行代码。
+原版游戏版权归其原作者所有。本项目为个人学习用途的 HTML5 玩法复刻，不包含原版游戏的可执行代码。
